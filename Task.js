@@ -4,9 +4,9 @@ function person(FirstName ,LastName,OfficeAddress){
     this.OfficeAddress=OfficeAddress
 }
 
-var Person1 = new person("Ram","Charan","Ameerpet,Hyderabad");
-var Person2 = new person("Pavan","Kalyan","Kukatpally , Hyderabad");
-var Person3 = new person("Ravi","Teja","Gachibowli,Hyderabad");
+var Person1 = new person("Hema","Vardhini","Srikalahasti,Chittoor");
+var Person2 = new person("Dillip","Dev","Vidhyanagar , Nellore");
+var Person3 = new person("Sumanjali","Pasupuleti","Ameerpet,Hyderabad");
 
 console.log("Person1:")
 console.log("FirstName: " + Person1.FirstName)
